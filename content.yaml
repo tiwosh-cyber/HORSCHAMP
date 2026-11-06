@@ -1,0 +1,107 @@
+brand:
+  name: HORS CHAMP
+  tagline: Des vêtements essentiels, construits pour vivre dehors.
+  territory: Paris — Hors des lignes.
+  label: Atelier indépendant · Paris
+announcement: 'DROP 01 — OUTSIDE SYSTEM'
+demo: Collection de démonstration
+image_label: Visuel conceptuel généré par IA
+nav:
+  collection: Collection
+  manifesto: Manifeste
+  lookbook: Lookbook
+  access: Accès anticipé
+  open: Ouvrir le menu
+  close: Fermer le menu
+drop:
+  number: DROP 01
+  title_first: OUTSIDE
+  title_second: SYSTEM
+  edition: Une autre façon d’habiter la ville.
+  launch_date: Date à confirmer
+  primary_cta: Accéder au drop
+  secondary_cta: Découvrir la collection
+  scroll: Explorer le mouvement
+  caption: Silhouette 01 / Étude urbaine
+manifesto:
+  label: Le manifeste
+  title: Pas une saison.
+  title_second: Un système.
+  text: Des pièces simples, pensées pour les déplacements, les couches et les usages quotidiens.
+  footnote: Moins de bruit. Plus de présence.
+lookbook:
+  label: Le lookbook
+  title: DEHORS,
+  title_second: PAR DÉFAUT.
+  text: Le mouvement comme point de départ.
+  first_caption: '01 — Entre les lignes'
+  first_detail: Field Hoodie / Archive Tee
+  second_caption: '02 — À contre-champ'
+  second_detail: Volume, couches, mouvement
+  note: Études de silhouettes — Images conceptuelles IA
+collection:
+  label: La collection
+  title: QUATRE PIÈCES.
+  title_second: UN LANGAGE.
+  subtitle: Drop 01 — Outside System
+  count: 01 — 04
+  status: Produit de démonstration
+products:
+  - name: Field Hoodie
+    description: Hoodie oversize en coton lourd, lavé et structuré.
+    category: Volume / Structure
+    image: hoodie.webp
+    alt: Vue conceptuelle d’un hoodie oversize gris charbon délavé.
+  - name: Layer Shell
+    description: Couche légère de protection.
+    category: Couche / Protection
+    image: shell.webp
+    alt: Vue conceptuelle d’une veste légère gris ardoise zippée.
+  - name: Archive Tee
+    description: Tee ample, imprimé discret, finition patinée.
+    category: Patine / Essentiel
+    image: tee.webp
+    alt: Vue conceptuelle d’un tee-shirt ample blanc craie au motif discret.
+  - name: Signal Cap
+    description: Casquette six panneaux souple, détail réfléchissant.
+    category: Détail / Signal
+    image: cap.webp
+    alt: Vue conceptuelle d’une casquette six panneaux gris charbon.
+construction:
+  label: La construction
+  title: RIEN DE TROP.
+  title_second: RIEN AU HASARD.
+  note: Intentions de design — détails techniques à définir.
+  image_alt: Étude conceptuelle de textures sombres superposées, coutures et fermeture métallique.
+  items:
+    - title: La matière
+      text: La texture, la patine, la présence.
+    - title: Les couches
+      text: Des volumes pensés pour se superposer.
+    - title: L’usage
+      text: Le quotidien comme terrain d’expression.
+    - title: La protection
+      text: Une intention utilitaire, sans superflu.
+access:
+  label: L’accès anticipé
+  title: RESTER
+  title_second: HORS CHAMP.
+  text: Un premier regard sur ce qui vient.
+  input_label: Votre adresse e-mail
+  placeholder: Votre adresse e-mail
+  button_label: Rejoindre la liste
+  notice: 'Prototype visuel uniquement : champ et bouton inactifs. Aucune adresse n’est collectée, aucune inscription ni aucun envoi ne sont effectués.'
+  status: Accès anticipé fictif
+footer:
+  statement: Des vêtements essentiels. Un regard différent.
+  contact: Contact
+  instagram: Instagram
+  legal: Mentions légales
+  privacy: Politique de confidentialité
+  pending: Destination à définir
+  copyright: © 2026 HORS CHAMP — Projet fictif de démonstration.
+  credit: Direction visuelle / Drop 01
+  back: Retour en haut
+alts:
+  hero: Silhouette conceptuelle en hoodie charbon, de dos, sous une architecture de béton parisienne.
+  lookbook: Silhouette conceptuelle en hoodie sombre et pantalon ample écru dans un escalier de béton.
